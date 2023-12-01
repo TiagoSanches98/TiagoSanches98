@@ -8,7 +8,7 @@
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSanches98&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanches98&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanches98&langs_count=8&theme=dracula)
 
 ## Tecnologias queuso no meu dia a dia
 
