@@ -7,6 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tiagosanches-b531441ba)
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoSanches98&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSanches98&layout=compact)](https://github.com/TiagoSanches98/github-readme-stats)
 
 ## Tecnologias queuso no meu dia a dia
